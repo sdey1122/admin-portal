@@ -6,6 +6,6 @@
 
 **routes**
 
-**controller**
+**controllers**
 
 **ejs**
